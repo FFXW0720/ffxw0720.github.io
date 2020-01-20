@@ -4,6 +4,7 @@
 #### 准确来说你只是来到了仓库而已嘿嘿
 ## 文件说明
 #### README就是此文件
+#### CNAME是域名绑定文件
 #### blog.html是全部博客的页面
 #### gg.html是全部通知的页面
 #### index.html是你们在ffxw0720.github.io中看到的页面
